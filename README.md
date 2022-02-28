@@ -1,7 +1,7 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=Welcome%20My%20GitHub&fontSize=80&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=HyunSuPark&fontSize=80&animation=fadeIn)
 
-<h3 align="center">Hi! I'm Hyun Su 👋 Have a Good Day!</h3>
+<h2 align="center">Hi! I'm Hyun Su 👋 Have a Good Day!</h2>
 
 <h3 align="center">Contact🤝Me</h3>
 <div align="center">
@@ -11,16 +11,11 @@
   <a href="mailto: phs0767@gamil.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 </div>
 <br/>
-    
-- - -
-    
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=phs0767)](https://solved.ac/phs0767)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkHyunsu1110&show_icons=true&theme=radical)
-* * *
-<h2>💪Used Skills</h2>
+<h2 align="center">💪Used Skills</h2>
 
-<h3 align="left">💻Language💻</h3>
-<div align="left">
+<h3 align="center">💻Language💻</h3>
+    
+<div align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   
@@ -36,14 +31,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 </div>
 
-<h3 align="left">Framework</h3>
-<div align="left">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=CodeIgniter&logoColor=white"/>
-</div>
-
-<h3 align="left">IDE</h3>
-<div align="left">
+<h3 align="center">💻IDE💻</h3>
+<div align="center">
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/><br/>
@@ -52,22 +41,24 @@
   <img src="https://img.shields.io/badge/Jupyter-F5BCA9?style=flat&logo=Jupyter&logoColor=F37626"/>
 <img src="https://img.shields.io/badge/Google Colab-F6D8CE?style=flat&logo=Google Colab&logoColor=F9AB00"/>
 </div>
+    
+<h3 align="center">💻Framework💻</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=CodeIgniter&logoColor=white"/>
+</div>
 
-<h3 align="left">Server</h3>
-<div align="left">
+<h3 align="center">💻Server & DataBase💻</h3>
+<div align="center">
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpMyAdmin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-F3E2A9?style=flat&logo=Firebase&logoColor=FFCA28"/>
 </div>
-
-<h3 align="left">DataBase</h3>
-<div align="left">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-F3E2A9?style=flat&logo=Firebase&logoColor=FFCA28"/>
-</div>
-
-
-
-
-
+    
+<h2></h2>
+    
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=phs0767)](https://solved.ac/phs0767)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkHyunsu1110&show_icons=true&theme=radical)
 
 <!--
  **ParkHyunsu1110/ParkHyunsu1110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
