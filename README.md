@@ -6,7 +6,7 @@
 <h3 align="center">Contact🤝Me</h3>
 <div align="center">
   <a href="https://github.com/ParkHyunsu1110" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-  <a href="https://www.instagram.com/yurryme" target="_blank"><img src="https://img.shields.io/badge/Instagram-2E9AFE?style=flat&logo=Instagram&logoColor=E4405F"/>
+  <a href="https://www.instagram.com/hyunsu._.0767" target="_blank"><img src="https://img.shields.io/badge/Instagram-2E9AFE?style=flat&logo=Instagram&logoColor=E4405F"/>
   <a href="mailto: hyunsoo5421@gamil.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
   <a href="mailto: phs0767@gamil.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 </div>
